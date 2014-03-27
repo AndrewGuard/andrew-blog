@@ -1,5 +1,3 @@
-name: Your New Jekyll Site
-markdown: redcarpet
 port: 4000
 auto: true
 safe: true
